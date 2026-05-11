@@ -1,0 +1,18 @@
+---
+
+```txt
+# Frontend Technologies
+HTML5
+CSS3
+JavaScript
+
+# Frameworks & Libraries
+Bootstrap 5
+
+# Development Environment
+Google Chrome / Any Modern Browser
+VS Code
+
+# Optional Tools
+Git
+GitHub
